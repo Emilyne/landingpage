@@ -1,0 +1,28 @@
+body
+{background-color: #053B44;
+}
+h1
+{
+    font-size: xx-large;
+    text-align: right
+}
+h2, h3
+{
+    color: #029D5B;
+    font-size: large;
+    text-align: center
+}
+.bienvenue
+{
+    color: #fff;
+}
+.agence
+{
+    color: #d5f31f;
+    font-weight: bold;
+}
+.lorem
+{
+    text-align: center;
+    color: #565E65
+}
