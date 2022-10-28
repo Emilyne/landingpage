@@ -1063,18 +1063,20 @@ h3 {
    }
 }
 
-@media only screen and (min-width: 941px) and (max-width: 1300px) {
+@media only screen and (min-width: 941px) and (max-width: 1400px) {
    .sidebyside {
       gap: 1.5em;
+	  display: flex;
+	  justify-content: center;
    }
    .boxapropos {
-      max-height: 25em;
-      max-width: 25em;
+      max-height: 30em;
+      max-width: 30em;
    }
 
    .photo_reu {
-      max-width: 25em;
-      max-height: 25em;
+      max-width: 30em;
+      max-height: 30em;
       object-fit: contain;
    }
 
